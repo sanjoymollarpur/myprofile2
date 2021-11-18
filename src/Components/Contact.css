@@ -1,0 +1,36 @@
+.con-con{
+    width: 70%;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    background-color: rgba(250, 235, 215, 0.979);
+    /* background-color: blueviolet; */
+}
+.icon-con1{
+
+    display: flex;
+    margin: 0px 5px;
+}
+.imge{
+    margin-right: 8px;
+}
+.icon-con{
+    justify-content: center;
+}
+.box-1{
+    padding-top: 82px;
+}
+#contact{
+    margin-top: 10px;
+    
+}
+@media screen and (max-width:768px) 
+{
+    .con-con{
+        width: 100%;
+    }
+    .box{
+        margin-left: 20px;
+    }
+    
+}

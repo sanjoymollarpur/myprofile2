@@ -1,0 +1,31 @@
+.res-con{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    width: 70%;
+    margin: auto;
+}
+
+.box{
+    width: 50%;
+    margin: auto;
+}
+.card{
+    margin-top: 1px;
+}
+.card-container2{
+    margin-top: 80px;
+    background-color: whitesmoke;
+}
+.card-body span{
+    margin: 0px 1px;
+}
+.box-2 img{
+    margin-top: 20px;
+}
+@media screen and (max-width:768px) {
+    .res-con{
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+}

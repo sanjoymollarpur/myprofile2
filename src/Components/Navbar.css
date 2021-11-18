@@ -1,0 +1,35 @@
+.navbar{
+    list-style: none;
+    
+}
+ul a{
+    text-decoration: none;
+    color: black;
+}
+.nav1{
+    
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    
+}
+.itemlist{
+    margin: 0 20px;
+}
+.item{
+    padding-top: 10px;
+}
+.Navbar__Link{
+    display: none;
+}
+@media screen and (max-width:768px) {
+    .Navbar__Link{
+        display: initial;
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    .item1{
+        display: none;
+    }
+    
+}
