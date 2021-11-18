@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/myprofile2/static/css/main.8c8c4017.chunk.css",
+    "main.js": "/myprofile2/static/js/main.70ed8fee.chunk.js",
+    "main.js.map": "/myprofile2/static/js/main.70ed8fee.chunk.js.map",
+    "runtime-main.js": "/myprofile2/static/js/runtime-main.eb31f176.js",
+    "runtime-main.js.map": "/myprofile2/static/js/runtime-main.eb31f176.js.map",
+    "static/js/2.6c388863.chunk.js": "/myprofile2/static/js/2.6c388863.chunk.js",
+    "static/js/2.6c388863.chunk.js.map": "/myprofile2/static/js/2.6c388863.chunk.js.map",
+    "static/js/3.8e78b97c.chunk.js": "/myprofile2/static/js/3.8e78b97c.chunk.js",
+    "static/js/3.8e78b97c.chunk.js.map": "/myprofile2/static/js/3.8e78b97c.chunk.js.map",
+    "index.html": "/myprofile2/index.html",
+    "static/css/main.8c8c4017.chunk.css.map": "/myprofile2/static/css/main.8c8c4017.chunk.css.map",
+    "static/js/2.6c388863.chunk.js.LICENSE.txt": "/myprofile2/static/js/2.6c388863.chunk.js.LICENSE.txt",
+    "static/media/SanjoyResume.f1c1f665.pdf": "/myprofile2/static/media/SanjoyResume.f1c1f665.pdf",
+    "static/media/animatedcar5.6ba38b4b.png": "/myprofile2/static/media/animatedcar5.6ba38b4b.png",
+    "static/media/blog1.715309d8.png": "/myprofile2/static/media/blog1.715309d8.png",
+    "static/media/bootstrapi.997c463d.svg": "/myprofile2/static/media/bootstrapi.997c463d.svg",
+    "static/media/clock2.2df866bc.png": "/myprofile2/static/media/clock2.2df866bc.png",
+    "static/media/jee.2a7b8c94.png": "/myprofile2/static/media/jee.2a7b8c94.png",
+    "static/media/keep.64630c1d.png": "/myprofile2/static/media/keep.64630c1d.png",
+    "static/media/menu.00fbcd32.png": "/myprofile2/static/media/menu.00fbcd32.png",
+    "static/media/nodelogo.8e341cc0.png": "/myprofile2/static/media/nodelogo.8e341cc0.png",
+    "static/media/photo.bde5a35c.jpg": "/myprofile2/static/media/photo.bde5a35c.jpg",
+    "static/media/sahara.555111d6.png": "/myprofile2/static/media/sahara.555111d6.png",
+    "static/media/sass.0214fe9c.png": "/myprofile2/static/media/sass.0214fe9c.png",
+    "static/media/signup.78e2d8f9.png": "/myprofile2/static/media/signup.78e2d8f9.png",
+    "static/media/store.8318e786.png": "/myprofile2/static/media/store.8318e786.png",
+    "static/media/todocss3.45db8ad8.png": "/myprofile2/static/media/todocss3.45db8ad8.png",
+    "static/media/todocssmobile4.a2e8bce7.png": "/myprofile2/static/media/todocssmobile4.a2e8bce7.png",
+    "static/media/todojs1.2d31974d.png": "/myprofile2/static/media/todojs1.2d31974d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb31f176.js",
+    "static/js/2.6c388863.chunk.js",
+    "static/css/main.8c8c4017.chunk.css",
+    "static/js/main.70ed8fee.chunk.js"
+  ]
+}
